@@ -7,7 +7,6 @@ public class main {
     public static void main(String[] args) {
 
         int choix=0;
-        tab
 
 
         Scanner sc=new Scanner(System.in);

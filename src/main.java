@@ -73,7 +73,7 @@ public class main {
             System.out.println("Entrer un numéro de téléphone (1-oui 2-non)");
             choix=sc.nextInt();
             System.out.println("À quoi correcpond ce numéro?(information):");
-            tabcontact[nbcontact-1].getOccupation1().
+            tabcontact[nbcontact-1].getOccupation1();
 
 
 

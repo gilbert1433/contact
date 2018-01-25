@@ -6,6 +6,7 @@ public class contact {
     String nom;
     adresse adresse1;
     occupation occupation1;
+    telephone telephone[]=new telephone[10];
 
     public String getPrénom() {return prénom;}
 
